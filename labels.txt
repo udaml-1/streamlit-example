@@ -1,0 +1,80 @@
+Aguila negra mayor (Buteogallus urubitinga)
+Aguililla Pecho Rojo (Buteo lineatus)
+Aguililla aura (Buteo albonotatus)
+Alicante (Pituophis deppei)
+Alondra del este (Sturnella magna)
+Ardilla de Abert (Sciurus aberti)
+Ardilla de la Sierra Madre Occidental (Callospermophilus madrensis)
+Avetoro Menor (Ixobrychus exilis)
+Avetoro Norteño
+Berrendo (Antilocapra americana)
+Bisbita Llanera
+Bisonte americano (Bison bison)
+Búho Cara Oscura (Asio stygius)
+Búho Sabanero (Asio flammeus)
+Búho moteado (Strix occidentalis)
+Carpintero imperial (Campephilus imperialis)
+Carpintero pico plateado (Campephilus guatemalensis)
+Cascabel de manchas gemelas (Crotalus pricei)
+Cascabel del Altiplano (Crotalus scutulatus)
+Castor Americano
+Certeja de Alfanjes (Mareca falcata)
+Chara sinaloense (Cyanocorax beecheii)
+Chorlo Llanero
+Cigüeña Americana
+Cisne de Tundra
+Clarín Jilguero (Myadestes occidentalis)
+Clarín Norteño (Myadestes townsendi)
+Colibri cola pinta
+Colorín sietecolores (Passerina ciris)
+Cotorra serrana occidental (Rhynchopsitta pachyrhyncha)
+Culebra de Agua de cabeza angular
+Culebra lineada de bosque (Thamnophis cyrtopsis)
+Culebra perico del pacifico
+Culebra suelera cola plana
+Escribano Collar Castaño (Calcarius ornatus)
+Eslizón Pigmeo Norteño
+Ganso Cisne Asiático (Anser cygnoides)
+Garza Rojiza
+Gavilán Azor (Accipiter gentilis)
+Grulla gris (Antigone canadensis)
+Guacamaya Verde (Ara militaris)
+Halcón Mexicano (Falco mexicanus)
+Halcón de Cooper (Accipiter cooperii)
+Halcón de Harris (Parabuteo unicinctus)
+Halcón de Swaison (Buteo swainsoni)
+Halcón ferruginoso (Buteo regalis)
+Halcón peregrino (Falco peregrinus)
+Huron de patas negras
+Jaguar (Panthera onca)
+Lagartija perrilla arenera de Chihuahua
+Lagarto de Chaquira
+Loro Corona Lila (Amazona finschi)
+Milano de Mississippi (Ictinia mississippiensis)
+Mirlo Acuático Norteamericano (Cinclus mexicanus)
+Murciélago Orejón de Townsend (Corynorhinus townsendii)
+Ocelote (Leopardus pardalis)
+Oso negro americano (Ursus americanus)
+Papamoscas Boreal (Contopus cooperi)
+Pato mexicano (Anas diazi)
+Perico Catarino
+Perrito llanero cola negra (Cynomys ludovicianus)
+Picogrueso Norteño
+Rana Leopardo de Yavapai
+Rana Tarahumara
+Rascón azteca (Rallus tenuirostris)
+Serpiente de cascabel con espalda de diamante occidental (Crotalus atrox)
+Serpiente de cascabel de cola negra occidental (Crotalus molossus)
+Tecolote colimense
+Tecolote del Este
+Tigrillo
+Tlalcoyote (Taxidea taxus)
+Tortuga Pecho Quebrado Pata Rugosa (Kinosternon hirtipes)
+Tortuga apestosa (Terrapene ornata)
+Tortuga de monte pintada
+Vencejo Nuca Blanca
+Verdugo americano (Lanius ludovicianus)
+Vireo Gorra Negra (Vireo atricapilla)
+Yaguarundi
+Zorra del Desierto (Vulpes macrotis)
+Águila real (Aquila chrysaetos)
